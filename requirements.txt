@@ -1,2 +1,6 @@
 discord==1.0.0
 asyncio
+discord-ext-bot==1.0.1
+discord-py-interactions==4.2.1
+discord-py-slash-command==4.2.1
+discord.py @ git+https://github.com/Rapptz/discord.py@1ba290d8c6884daa8a8548ab203fb12bd736576d
